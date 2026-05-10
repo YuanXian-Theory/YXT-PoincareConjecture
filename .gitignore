@@ -1,0 +1,6 @@
+*.aux *.log *.out *.toc *.bbl *.blg
+__pycache__/
+.lake/
+build/
+figures/
+.DS_Store
